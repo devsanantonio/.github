@@ -1,9 +1,11 @@
-# DEVSA
-**Shaping the identity of tech in San Antonio** </br>
-
+# DEVSA - Shaping the identity of tech in San Antonio
 DEVSA is a educational non-profit organization for the software development and engineer community
 
-https://github.com/devsanantonio/devsanantonio/assets/92760924/7d2d6c7a-1ec9-46ad-8da2-3d6e12e04c39
+![devsa-coffee-wednesdays-1](https://github.com/devsanantonio/devsanantonio/assets/92760924/d71dad4e-440c-4437-9adb-c415013fa874)
+
+![devsa-hub](https://github.com/devsanantonio/.github/assets/92760924/62bace34-047d-4ed5-af82-762ee2416f69)
+
+![discord-community-nobg](https://github.com/devsanantonio/.github/assets/92760924/a880aa16-56a7-4d28-b435-364a5db955a5)
 
 **Tired of feeling isolated? We were too** </br>
 When developers new to San Antonio kept expressing the lack of a dedicated developer space, we knew something had to change
@@ -19,4 +21,4 @@ As the city solidifies its position as a cybersecurity hub and fosters partnersh
 
 <strong>Join us in building a stronger developer ecosystem in San Antonio!</strong>
 
-![devsa-coffee-wednesdays-1](https://github.com/devsanantonio/devsanantonio/assets/92760924/d71dad4e-440c-4437-9adb-c415013fa874)
+https://github.com/devsanantonio/devsanantonio/assets/92760924/7d2d6c7a-1ec9-46ad-8da2-3d6e12e04c39
