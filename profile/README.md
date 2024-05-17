@@ -1,11 +1,12 @@
-# DEVSA - Shaping the identity of tech in San Antonio
-DEVSA is a educational non-profit organization for the software development and engineer community
+# DEVSA - Born out of Frustration, Built for Empowerment!
+DEVSA is a educational non-profit organization for the software development community in San Antonio
 
-![devsa-coffee-wednesdays-1](https://github.com/devsanantonio/devsanantonio/assets/92760924/d71dad4e-440c-4437-9adb-c415013fa874)
-
-![devsa-hub](https://github.com/devsanantonio/.github/assets/92760924/62bace34-047d-4ed5-af82-762ee2416f69)
-
-![discord-community-nobg](https://github.com/devsanantonio/.github/assets/92760924/a880aa16-56a7-4d28-b435-364a5db955a5)
+![social-lounge-3](https://github.com/devsanantonio/.github/assets/92760924/04249684-e7cb-4f72-928b-701d0da5a28d)
+![devsa-coffee-wednesdays-1 (1)](https://github.com/devsanantonio/.github/assets/92760924/84da0f21-29a6-4b61-9b4e-e97603cd5085)
+![buildwithunity-7 (2)](https://github.com/devsanantonio/.github/assets/92760924/f63e7b89-2fed-4222-8398-69b8125d2ce3)
+![devsa-alamopython-2](https://github.com/devsanantonio/.github/assets/92760924/0f53e43e-036f-4e3d-b68b-a68c340c514b)
+![devsa-launchsa-1](https://github.com/devsanantonio/.github/assets/92760924/2867e49c-35d7-46f1-9cc6-c55f798bc660)
+![devsa-gdgsa-meetup-3](https://github.com/devsanantonio/.github/assets/92760924/16cf6976-793b-4f46-8705-4d64213c675e)
 
 **Tired of feeling isolated? We were too** </br>
 When developers new to San Antonio kept expressing the lack of a dedicated developer space, we knew something had to change
