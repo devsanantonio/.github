@@ -1,12 +1,9 @@
 # DEVSA - Born out of Frustration, Built for Empowerment!
 DEVSA is a educational non-profit organization for the software development community in San Antonio
 
-![social-lounge-3](https://github.com/devsanantonio/.github/assets/92760924/04249684-e7cb-4f72-928b-701d0da5a28d)
-![devsa-coffee-wednesdays-1 (1)](https://github.com/devsanantonio/.github/assets/92760924/84da0f21-29a6-4b61-9b4e-e97603cd5085)
-![buildwithunity-7 (2)](https://github.com/devsanantonio/.github/assets/92760924/f63e7b89-2fed-4222-8398-69b8125d2ce3)
-![devsa-alamopython-2](https://github.com/devsanantonio/.github/assets/92760924/0f53e43e-036f-4e3d-b68b-a68c340c514b)
-![devsa-launchsa-1](https://github.com/devsanantonio/.github/assets/92760924/2867e49c-35d7-46f1-9cc6-c55f798bc660)
-![devsa-gdgsa-meetup-3](https://github.com/devsanantonio/.github/assets/92760924/16cf6976-793b-4f46-8705-4d64213c675e)
+<a href="https://discord.gg/cvHHzThrEw">
+  <img src="https://github.com/devsanantonio/.github/assets/92760924/42b54f68-1072-4a26-bbd4-2490bad1a167" alt="devsa discord banner with link to discord" />
+</a>
 
 **Tired of feeling isolated? We were too** </br>
 When developers new to San Antonio kept expressing the lack of a dedicated developer space, we knew something had to change
@@ -21,5 +18,3 @@ By working hand-in-hand with existing organizations in the city, we've fostered 
 As the city solidifies its position as a cybersecurity hub and fosters partnerships with Monterrey, Mexico and the South Texas triangle, we're committed to ensuring our developers have the tools and knowledge to thrive in this dynamic environment
 
 <strong>Join us in building a stronger developer ecosystem in San Antonio!</strong>
-
-https://github.com/devsanantonio/devsanantonio/assets/92760924/7d2d6c7a-1ec9-46ad-8da2-3d6e12e04c39
