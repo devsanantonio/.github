@@ -2,7 +2,7 @@
 DEVSA is a educational non-profit organization for the software development community in San Antonio
 
 <a href="https://discord.gg/cvHHzThrEw">
-  <img src="https://github.com/devsanantonio/.github/assets/92760924/42b54f68-1072-4a26-bbd4-2490bad1a167" alt="devsa discord banner with link to discord" />
+  <img src="https://github.com/devsanantonio/.github/assets/92760924/e62391da-41e3-4ed0-9061-4c7c4fc96b8d" alt="devsa discord banner with link to discord" />
 </a>
 
 **Tired of feeling isolated? We were too** </br>
