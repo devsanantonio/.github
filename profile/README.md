@@ -27,7 +27,7 @@ Find a safe, inclusive, and welcoming environment where you can connect, learn, 
 
 <a href="https://devsanantonio.com/">
   <img
-    src="https://res.cloudinary.com/jessebubble/image/upload/v1729625750/community-2_yhk6vy.svg"
-    alt="devsa community logo"
+    src="https://res.cloudinary.com/jessebubble/image/upload/v1733620655/flyers-13-square_tnf6dr.png"
+    alt="devsa github community logo"
   />
 </a>
