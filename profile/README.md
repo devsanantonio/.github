@@ -1,33 +1,97 @@
-<a href="https://discord.gg/cvHHzThrEw">
-  <img 
-    src="https://res.cloudinary.com/jessebubble/image/upload/v1722041637/discord-invite_ayxfzh.svg" 
-    alt="devsa discord banner with link to discord" 
-  />
-</a>
+```
+██████╗ ███████╗██╗   ██╗███████╗ █████╗ 
+██╔══██╗██╔════╝██║   ██║██╔════╝██╔══██╗
+██║  ██║█████╗  ██║   ██║███████╗███████║
+██║  ██║██╔══╝  ╚██╗ ██╔╝╚════██║██╔══██║
+██████╔╝███████╗ ╚████╔╝ ███████║██║  ██║
+╚═════╝ ╚══════╝  ╚═══╝  ╚══════╝╚═╝  ╚═╝
+```
 
-# Community Focused on Learning and Networking
+<h3 align="center">Find your people. Build your future.</h3>
 
-**Tired of feeling isolated? We were too** </br>
-When developers new to San Antonio kept expressing the lack of a dedicated tech space, we knew something had to change
+<p align="center">
+  <a href="https://devsa.community">devsa.community</a> · 
+  <a href="https://discord.gg/cvHHzThrEw">Discord</a> · 
+  <a href="https://www.linkedin.com/company/devsa">LinkedIn</a>
+</p>
 
-**Building Authentic Connections:** </br> 
-Whether you're buying tech books, getting certified, writing blogs, creating podcasts, or just love tech content. Our DEVSA community is for passionate tech enthusiasts like you!
+---
 
-**Building a Strong Foundation Together:** </br>
-From the start, we knew DEVSA's in-person event space wouldn't be about favoring a single language or tech stack. Instead, we envisioned a platform that embraced the diversity of San Antonio's tech community
+```
+guest@devsa ~ % cat origin-story.txt
 
-**Collaboration is at the Heart of DEVSA:** </br>
-By working hand-in-hand with existing organizations in the city, we've fostered a network of knowledge sharing and support. Our non-profit status allows us to secure affordable venues, ensuring inclusivity and accessibility for all developers
+  "Where is the tech community in San Antonio?"
 
-**San Antonio's Tech Landscape is Evolving:** </br>
-As the city solidifies its position as a cybersecurity hub and fosters partnerships with Monterrey, Mexico and the South Texas triangle, we're committed to ensuring our developers have the tools and knowledge to thrive in this dynamic environment
+  We found 20+ tech-focused groups scattered across the city,
+  not collaborating and living in their own bubbles.
 
-<strong>Join us in building a stronger tech ecosystem in San Antonio!</strong> </br>
-Find a safe, inclusive, and welcoming environment where you can connect, learn, and grow alongside talented tech enthusiast of all skill levels
+  So we built DEVSA to bring them together.
+```
 
-<a href="https://devsanantonio.com/">
-  <img
-    src="https://res.cloudinary.com/jessebubble/image/upload/v1733620655/flyers-13-square_tnf6dr.png"
-    alt="devsa github community logo"
-  />
-</a>
+## `> Building Together`
+
+DEVSA bridges the gap between **passionate builders**, local partners, and the growing tech ecosystem in **San Antonio**. One platform to discover communities, events, and resources.
+
+```
+guest@devsa ~ % ls communities/
+
+  alamo-python/          google-dev-groups/      geeks-and-drinks/
+  acm-sa/                defcon-group-sa/        dotnet-user-group/
+  alamo-tech-collective/ greater-gaming-society/ datanauts/
+  ...and 15+ more
+```
+
+## `> What We Do`
+
+```
+guest@devsa ~ % cat --services
+
+  ┌──────────────────────────────────────────────────────────────┐
+  │                                                              │
+  │   ◆ Community Calendar    All SA tech events in one place    │
+  │   ◆ Coworking Space       A home base for builders           │
+  │   ◆ Job Board             Careers in the local ecosystem     │
+  │   ◆ Shop                  Rep the community                  │
+  │   ◆ DevSA TV              On-demand tech content             │
+  │                                                              │
+  └──────────────────────────────────────────────────────────────┘
+```
+
+## `> The Stack`
+
+```
+guest@devsa ~ % cat stack.json
+
+  {
+    "framework":   "Next.js 16 (App Router)",
+    "language":    "TypeScript",
+    "styling":     "Tailwind CSS v4",
+    "animation":   "Motion",
+    "database":    "Google Firestore",
+    "auth":        "Firebase Authentication",
+    "email":       "Resend",
+    "protection":  "MAGEN Trust",
+    "deployment":  "Vercel"
+  }
+```
+
+## `> Get Involved`
+
+```
+guest@devsa ~ % ./join.sh
+
+  → Star our repos and explore the code
+  → Join our Discord: https://discord.gg/cvHHzThrEw
+  → Attend a meetup: https://devsa.community/events
+  → Visit the coworking space: https://devsa.community/coworking-space
+  → Browse communities: https://devsa.community/buildingtogether
+
+  Connection established ███████████████████████ 100%
+```
+
+---
+
+<p align="center">
+  <strong>San Antonio's tech landscape is evolving.</strong><br>
+  We're making sure no builder gets left behind.
+</p>
