@@ -1,0 +1,5 @@
+# The Sponsor button on every DEVSA repo that doesn't have its own FUNDING.yml.
+github: devsanantonio
+custom:
+  - https://www.devsa.community/buildingtogether#donate
+  - https://www.devsa.community/buildingtogether#get-involved

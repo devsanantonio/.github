@@ -1,11 +1,7 @@
-```
-⣾⣿⣿⣿⣿⢸⣿⣿⣿⣿⡇⣿⣿⣿⣿⣷
-⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿
-⣿⠀⠈⠻⣦⡀⠀⠰⣉⡉⢰⣉⣱⠀⠀⣿
-⣿⠀⠀⢀⣼⠟⠀⠠⠤⠜⠸⠀⠸⠀⠀⣿
-⣿⠀⠐⠛⠁⠀⠀⠘⠛⠛⠛⠛⠛⠀⠀⣿
-⢿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⡿
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/devsa-mark-braille-dark.svg">
+  <img alt="DEVSA" src="assets/devsa-mark-braille-light.svg" width="160">
+</picture>
 
 ### Find your people. Build your future.
 
@@ -18,12 +14,17 @@ DEVSA connects the people building San Antonio tech: the active learners and bui
 ```
 guest@devsa ~ % cat origin-story.txt
 
-  "Where is the tech community in San Antonio?"
+  "Where is the tech community
+   in San Antonio?"
 
-  The groups were always here. They just ran in separate orbits,
-  with no shared calendar and no single place for a newcomer to
-  find them. In April 2024 we could find about ten. Today there
-  are 25 on one calendar, and nothing on it is a sales pitch.
+  The groups were always here.
+  They ran in separate orbits,
+  with no shared calendar and
+  no one place to find them.
+
+  April 2024: about ten.
+  Today: 25, on one calendar.
+  Nothing on it is a sales pitch.
 ```
 
 ## `> ls communities/`
@@ -68,6 +69,16 @@ Updated daily from the [community calendar](https://www.devsa.community/events),
 | [**next-devsa**](https://github.com/devsanantonio/next-devsa) | The source of devsa.community | Issues labeled [`good first issue`](https://github.com/devsanantonio/next-devsa/labels/good%20first%20issue) |
 
 Never opened a pull request? These repos are a good place for your first. Say so in the PR and we'll walk you through it.
+
+## `> Back the work`
+
+The calendar, the directory and every repo here are free, and they stay that way. DEVSA is a 501(c)(3) nonprofit run by a volunteer board. If what we build is useful to you or your company, there are three ways to back it:
+
+| | |
+|---|---|
+| **Sponsor on GitHub** | [github.com/sponsors/devsanantonio](https://github.com/sponsors/devsanantonio): monthly or one-time, for the developers and companies who use the open work |
+| **Give** | [devsa.community/buildingtogether#donate](https://www.devsa.community/buildingtogether#donate): a gift to DEVSA, with a receipt by email |
+| **Partner with DEVSA** | [devsa.community/buildingtogether#get-involved](https://www.devsa.community/buildingtogether#get-involved): back a specific event or program, host with a group, or co-design a pop-up |
 
 ## `> ./join.sh`
 
