@@ -1,11 +1,11 @@
-# **Reporting Security Issues**
+# Reporting a security issue
 
-The project's team and community take security issues.
+Please don't report security problems in a public issue, a pull request or the Discord.
 
-We appreciate your efforts to disclose your findings responsibly and will make every effort to acknowledge your contributions.
+Email **jesse@devsanantonio.com** with "Security" in the subject line, and include:
 
-To report a security issue, go to the project's issues and create a new issue using the ⚠️ Security Report 'issue template'.
+- which repo or page is affected,
+- what you found and how to reproduce it,
+- what someone could do with it, if you know.
 
-Read the instructions of this issue template carefully, and if your report could leak data or might expose how to gain access to a restricted area or break the system, please [join our discord and message one of the admins](https://discord.gg/cvHHzThrEw) and include "GitHub Security Issue" in the message.
-
-We'll endeavor to respond quickly and keep you updated throughout the process.
+We'll acknowledge it as soon as we can, keep you updated while it's fixed, and credit you when it is, unless you'd rather we didn't.

@@ -55,7 +55,7 @@ further defined and clarified by project maintainers.
 ## Enforcement
 
 Instances of abusive, harassing or otherwise unacceptable behavior may be
-reported by contacting an admin in our [Discord server](https://discord.gg/cvHHzThrEw). All
+reported by contacting an admin in our [Discord server](https://www.devsa.community/discord), or by email to jesse@devsanantonio.com. All
 complaints will be reviewed and investigated and will result in a response that
 is deemed necessary and appropriate to the circumstances. The project team is
 obligated to maintain confidentiality concerning the reporter of an incident.

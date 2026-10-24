@@ -1,11 +1,6 @@
-# **Support**
+# Getting help
 
-## Obtain direct support from the project's owners
-
-1. Open a new issue and select the issue with the template called "❓ Question or Support Request".
-2. Read the instructions carefully in that template and submit the issue asking for support
-or any question.
-
-## Bug reports
-
-See the [contributing guidelines](CONTRIBUTING.md) for sharing bug reports and read our [code of conduct](CODE_OF_CONDUCT.md).
+- **A question about using or contributing to a repo:** open an issue in that repo, or ask in the [DEVSA Discord](https://www.devsa.community/discord).
+- **A bug on devsa.community:** open an issue in [next-devsa](https://github.com/devsanantonio/next-devsa/issues) with the page, what you expected, and what happened.
+- **Your group's events or listing on the calendar:** ask in the Discord.
+- **A security problem:** see [SECURITY.md](SECURITY.md). Please don't post it publicly.

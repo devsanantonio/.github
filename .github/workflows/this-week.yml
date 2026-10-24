@@ -1,0 +1,32 @@
+name: This week in SA tech
+
+# Keeps the "ls this-week/" block on the org profile current, from the
+# community calendar's public feed.
+on:
+  schedule:
+    - cron: '0 11 * * *'   # 6 AM Central, daily (5 AM during standard time)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: this-week
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: node .github/scripts/this-week.mjs
+      - name: Commit if it changed
+        run: |
+          if git diff --quiet profile/README.md; then exit 0; fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -am 'Refresh this week from the community calendar'
+          git push

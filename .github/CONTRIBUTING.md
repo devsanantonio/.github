@@ -1,23 +1,34 @@
-# **Contributing**
+# Contributing to DEVSA
 
-When contributing to this repository, please first discuss the change you wish to make via issue,
-email, or any other method with the owners of this repository before making a change.
+Thanks for being here. DEVSA's repos are open so that San Antonio's builders can build on them, and a first-time contributor is as welcome as anyone.
 
-Please note we have a [code of conduct](CODE_OF_CONDUCT.md); please follow it in all your interactions with the project.
+## Where to start
 
-## Pull Request Process
+- **[next-devsa](https://github.com/devsanantonio/next-devsa)**, the source of devsa.community: look for issues labeled [`good first issue`](https://github.com/devsanantonio/next-devsa/labels/good%20first%20issue).
+- **[localhost](https://github.com/devsanantonio/localhost)**: add a starter for a San Antonio dataset, or explain one better.
+- **[devsa-sessions](https://github.com/devsanantonio/devsa-sessions)**: add what you built to the showcase. One line is a whole pull request.
 
-1. Ensure any install or build dependencies are removed before the end of the layer when doing a
-   build.
-2. Update the README.md with details of changes to the interface; this includes new environment variables, exposed ports, valid file locations and container parameters.
-3. Increase the version numbers in any examples files and the README.md to the new version that this
-   Pull Request would represent. The versioning scheme we use is [SemVer](http://semver.org/).
-4. You may merge the Pull Request once you have the sign-off of two other developers, or if you
-   do not have permission to do that, you may request the second reviewer to merge it for you.
+Each repo's own README or CONTRIBUTING file has the specifics, and takes priority over this page.
 
-## Issue Report Process
+## How a change happens
 
-1. Go to the project's issues.
-2. Select the template that better fits your issue.
-3. Read the instructions carefully and write within the template guidelines.
-4. Submit it and wait for support.
+1. **Bigger than a typo? Say what you're planning first**, in an issue or in **#build-and-tell** on the [DEVSA Discord](https://www.devsa.community/discord). It saves you building something that can't be merged.
+2. Fork the repo, make a branch, and make your change.
+3. Check it runs. For next-devsa that's `pnpm build`.
+4. Open a pull request: what you changed, why, and how you checked it. Screenshots help for anything visual.
+
+A maintainer will review it. Expect questions rather than a silent merge or a silent close.
+
+## First pull request ever?
+
+Say so in the description. We'll help with whatever's unfamiliar: forking, branches, a failing check, a review comment. Everyone's first one was someone's first one.
+
+## Ground rules
+
+- Be kind. The [Code of Conduct](CODE_OF_CONDUCT.md) applies in every repo, issue and pull request.
+- No sales pitches, in code or in copy. It's the same rule as the calendar.
+- Never commit secrets, API keys or anyone's personal information.
+
+## Questions
+
+Ask in the [DEVSA Discord](https://www.devsa.community/discord), or open an issue in the repo you're working in.

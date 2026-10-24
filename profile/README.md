@@ -1,97 +1,87 @@
 ```
-██████╗ ███████╗██╗   ██╗███████╗ █████╗ 
-██╔══██╗██╔════╝██║   ██║██╔════╝██╔══██╗
-██║  ██║█████╗  ██║   ██║███████╗███████║
-██║  ██║██╔══╝  ╚██╗ ██╔╝╚════██║██╔══██║
-██████╔╝███████╗ ╚████╔╝ ███████║██║  ██║
-╚═════╝ ╚══════╝  ╚═══╝  ╚══════╝╚═╝  ╚═╝
+⣾⣿⣿⣿⣿⢸⣿⣿⣿⣿⡇⣿⣿⣿⣿⣷
+⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿
+⣿⠀⠈⠻⣦⡀⠀⠰⣉⡉⢰⣉⣱⠀⠀⣿
+⣿⠀⠀⢀⣼⠟⠀⠠⠤⠜⠸⠀⠸⠀⠀⣿
+⣿⠀⠐⠛⠁⠀⠀⠘⠛⠛⠛⠛⠛⠀⠀⣿
+⢿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⡿
 ```
 
-<h3 align="center">Find your people. Build your future.</h3>
+### Find your people. Build your future.
 
-<p align="center">
-  <a href="https://devsa.community">devsa.community</a> · 
-  <a href="https://discord.gg/cvHHzThrEw">Discord</a> · 
-  <a href="https://www.linkedin.com/company/devsa">LinkedIn</a>
-</p>
+[devsa.community](https://www.devsa.community) · [Calendar](https://www.devsa.community/events) · [Discord](https://www.devsa.community/discord) · [LinkedIn](https://www.linkedin.com/company/devsa)
 
 ---
+
+DEVSA connects the people building San Antonio tech: the active learners and builders, the city's tech community groups, and the partners who back the work. One calendar, one public directory, one channel to follow, and a few rooms a year where all of it meets. A nonprofit, run by a volunteer board.
 
 ```
 guest@devsa ~ % cat origin-story.txt
 
   "Where is the tech community in San Antonio?"
 
-  We found 20+ tech-focused groups scattered across the city,
-  not collaborating and living in their own bubbles.
-
-  So we built DEVSA to bring them together.
+  The groups were always here. They just ran in separate orbits,
+  with no shared calendar and no single place for a newcomer to
+  find them. In April 2024 we could find about ten. Today there
+  are 25 on one calendar, and nothing on it is a sales pitch.
 ```
 
-## `> Building Together`
-
-DEVSA bridges the gap between **passionate builders**, local partners, and the growing tech ecosystem in **San Antonio**. One platform to discover communities, events, and resources.
+## `> ls communities/`
 
 ```
-guest@devsa ~ % ls communities/
-
-  alamo-python/          google-dev-groups/      geeks-and-drinks/
-  acm-sa/                defcon-group-sa/        dotnet-user-group/
-  alamo-tech-collective/ greater-gaming-society/ datanauts/
-  ...and 15+ more
+  acm-sa/                       acm-utsa/                     aitx/
+  alamo-agents/                 alamo-city-ai/                alamo-city-locksport/
+  alamo-city-unity-user-group/  alamo-python/                 arda/
+  atc/                          aws/                          datanauts/
+  defcongroup-sa/               dotnet-user-group/            gdg/
+  geeks-and-drinks/             greater-gaming-society/       latinas-in-tech/
+  linux-satx/                   owasp/                        redhat/
+  saha/                         unreal-engineers-sa/          utsa-cyberjedis/
+  uxsa/
 ```
 
-## `> What We Do`
+Who they are, and how to walk in: [devsa.community/buildingtogether](https://www.devsa.community/buildingtogether).
 
+## `> ls this-week/`
+
+<!-- this-week:start -->
 ```
-guest@devsa ~ % cat --services
+guest@devsa ~ % ls this-week/
 
-  ┌──────────────────────────────────────────────────────────────┐
-  │                                                              │
-  │   ◆ Community Calendar    All SA tech events in one place    │
-  │   ◆ Coworking Space       A home base for builders           │
-  │   ◆ Job Board             Careers in the local ecosystem     │
-  │   ◆ Shop                  Rep the community                  │
-  │   ◆ DevSA TV              On-demand tech content             │
-  │                                                              │
-  └──────────────────────────────────────────────────────────────┘
-```
-
-## `> The Stack`
-
-```
-guest@devsa ~ % cat stack.json
-
-  {
-    "framework":   "Next.js 16 (App Router)",
-    "language":    "TypeScript",
-    "styling":     "Tailwind CSS v4",
-    "animation":   "Motion",
-    "database":    "Google Firestore",
-    "auth":        "Firebase Authentication",
-    "email":       "Resend",
-    "protection":  "MAGEN Trust",
-    "deployment":  "Vercel"
-  }
+  Tue, Oct 27  2:00 PM   Bexar AI Live Build
+  Tue, Oct 27  6:00 PM   Trick, Treat, & Deploy: AWS Card Clash
+  Thu, Oct 29 12:00 PM   MAUI: Architecture and Best Practices
+  Thu, Oct 29  6:00 PM   Talk Nerdy to Me
+  Thu, Oct 29  7:00 PM   Spooky Hour
 ```
 
-## `> Get Involved`
+Updated daily from the [community calendar](https://www.devsa.community/events), the next seven days in Central time. [Build on the same feed.](https://github.com/devsanantonio/community-calendar-api)
+<!-- this-week:end -->
+
+## `> Build with us`
+
+| Repo | What it is | Start with |
+|---|---|---|
+| [**localhost**](https://github.com/devsanantonio/localhost) | Every developer has a localhost. This one is San Antonio: open data from the City, Bexar County and VIA, with starters that run in a minute | Map San Antonio in 1897, or find your next bus |
+| [**community-calendar-api**](https://github.com/devsanantonio/community-calendar-api) | The community calendar's open feeds, documented | Put your group's events on your own site |
+| [**devsa-sessions**](https://github.com/devsanantonio/devsa-sessions) | Live build sessions from the Discord, and the Build-and-tell Friday showcase | Add what you built this week |
+| [**next-devsa**](https://github.com/devsanantonio/next-devsa) | The source of devsa.community | Issues labeled [`good first issue`](https://github.com/devsanantonio/next-devsa/labels/good%20first%20issue) |
+
+Never opened a pull request? These repos are a good place for your first. Say so in the PR and we'll walk you through it.
+
+## `> ./join.sh`
 
 ```
 guest@devsa ~ % ./join.sh
 
-  → Star our repos and explore the code
-  → Join our Discord: https://discord.gg/cvHHzThrEw
-  → Attend a meetup: https://devsa.community/events
-  → Visit the coworking space: https://devsa.community/coworking-space
-  → Browse communities: https://devsa.community/buildingtogether
+  → See what's on this week     devsa.community/events
+  → Join the Discord            devsa.community/discord
+  → Find your group             devsa.community/buildingtogether
+  → Show what you built         #build-and-tell, every Friday
 
   Connection established ███████████████████████ 100%
 ```
 
 ---
 
-<p align="center">
-  <strong>San Antonio's tech landscape is evolving.</strong><br>
-  We're making sure no builder gets left behind.
-</p>
+**San Antonio's tech landscape is evolving.** We're making sure no builder gets left behind.
