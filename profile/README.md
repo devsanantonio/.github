@@ -49,8 +49,6 @@ Who they are, and how to walk in: [devsa.community/buildingtogether](https://www
 ```
 guest@devsa ~ % ls this-week/
 
-  Tue, Oct 27  2:00 PM   Bexar AI Live Build
-  Tue, Oct 27  6:00 PM   Trick, Treat, & Deploy: AWS Card Clash
   Thu, Oct 29 12:00 PM   MAUI: Architecture and Best Practices
   Thu, Oct 29  6:00 PM   Talk Nerdy to Me
   Thu, Oct 29  7:00 PM   Spooky Hour
