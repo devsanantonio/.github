@@ -49,9 +49,7 @@ Who they are, and how to walk in: [devsa.community/buildingtogether](https://www
 ```
 guest@devsa ~ % ls this-week/
 
-  Thu, Oct 29 12:00 PM   MAUI: Architecture and Best Practices
-  Thu, Oct 29  6:00 PM   Talk Nerdy to Me
-  Thu, Oct 29  7:00 PM   Spooky Hour
+  Nothing on the calendar in the next seven days.
 ```
 
 Updated daily from the [community calendar](https://www.devsa.community/events), the next seven days in Central time. [Build on the same feed.](https://github.com/devsanantonio/community-calendar-api)
