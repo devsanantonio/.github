@@ -53,6 +53,7 @@ guest@devsa ~ % ls this-week/
   Tue, Nov 3   8:00 PM   Threat Modeling Python AI Applications
   Wed, Nov 4   6:00 PM   Meet the Software Factory
   Thu, Nov 5   6:00 PM   The Drop: Claude Code + Agents Primer
+  Sat, Nov 7   7:00 PM   November Meetup
 ```
 
 Updated daily from the [community calendar](https://www.devsa.community/events), the next seven days in Central time. [Build on the same feed.](https://github.com/devsanantonio/community-calendar-api)
