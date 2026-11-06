@@ -49,8 +49,8 @@ Who they are, and how to walk in: [devsa.community/buildingtogether](https://www
 ```
 guest@devsa ~ % ls this-week/
 
-  Thu, Nov 5   6:00 PM   The Drop: Claude Code + Agents Primer
   Sat, Nov 7   7:00 PM   November Meetup
+  Tue, Nov 10  6:00 PM   Agent Builders Night
   Wed, Nov 11  6:00 PM   Confidential Computing Leveraging Bootable Containers || General Meeting
 ```
 
