@@ -49,10 +49,10 @@ Who they are, and how to walk in: [devsa.community/buildingtogether](https://www
 ```
 guest@devsa ~ % ls this-week/
 
-  Sat, Nov 7   7:00 PM   November Meetup
   Tue, Nov 10  6:00 PM   Agent Builders Night
   Wed, Nov 11  6:00 PM   Confidential Computing Leveraging Bootable Containers || General Meeting
   Fri, Nov 13  6:00 PM   Byte Night
+  Sat, Nov 14 11:00 AM   Unfiltered: Cafecito
 ```
 
 Updated daily from the [community calendar](https://www.devsa.community/events), the next seven days in Central time. [Build on the same feed.](https://github.com/devsanantonio/community-calendar-api)
