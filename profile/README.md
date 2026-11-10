@@ -53,6 +53,7 @@ guest@devsa ~ % ls this-week/
   Wed, Nov 11  6:00 PM   Confidential Computing Leveraging Bootable Containers || General Meeting
   Fri, Nov 13  6:00 PM   Byte Night
   Sat, Nov 14 11:00 AM   Unfiltered: Cafecito
+  Mon, Nov 16  6:00 PM   Stealing Good Ideas from Rust: Python Patterns for Reliability
 ```
 
 Updated daily from the [community calendar](https://www.devsa.community/events), the next seven days in Central time. [Build on the same feed.](https://github.com/devsanantonio/community-calendar-api)
