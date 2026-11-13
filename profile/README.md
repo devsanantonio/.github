@@ -53,6 +53,7 @@ guest@devsa ~ % ls this-week/
   Sat, Nov 14 11:00 AM   Unfiltered: Cafecito
   Mon, Nov 16  6:00 PM   Stealing Good Ideas from Rust: Python Patterns for Reliability
   Tue, Nov 17  9:00 AM   Tech Tuesdays
+  Thu, Nov 19  6:30 PM   The 12 Talks of Cyber Christmas
 ```
 
 Updated daily from the [community calendar](https://www.devsa.community/events), the next seven days in Central time. [Build on the same feed.](https://github.com/devsanantonio/community-calendar-api)
