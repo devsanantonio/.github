@@ -49,7 +49,6 @@ Who they are, and how to walk in: [devsa.community/buildingtogether](https://www
 ```
 guest@devsa ~ % ls this-week/
 
-  Fri, Nov 13  6:00 PM   Byte Night
   Sat, Nov 14 11:00 AM   Unfiltered: Cafecito
   Mon, Nov 16  6:00 PM   Stealing Good Ideas from Rust: Python Patterns for Reliability
   Tue, Nov 17  9:00 AM   Tech Tuesdays
