@@ -49,10 +49,10 @@ Who they are, and how to walk in: [devsa.community/buildingtogether](https://www
 ```
 guest@devsa ~ % ls this-week/
 
-  Mon, Nov 16  6:00 PM   Stealing Good Ideas from Rust: Python Patterns for Reliability
   Tue, Nov 17  9:00 AM   Tech Tuesdays
   Wed, Nov 18  6:00 PM   Agentic Nights
   Thu, Nov 19  6:30 PM   The 12 Talks of Cyber Christmas
+  Thu, Nov 19  7:00 PM   Portfolio Page Importance, Walkthrough & 10-Minute Creation
 ```
 
 Updated daily from the [community calendar](https://www.devsa.community/events), the next seven days in Central time. [Build on the same feed.](https://github.com/devsanantonio/community-calendar-api)
