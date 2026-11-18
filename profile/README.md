@@ -49,7 +49,6 @@ Who they are, and how to walk in: [devsa.community/buildingtogether](https://www
 ```
 guest@devsa ~ % ls this-week/
 
-  Tue, Nov 17  9:00 AM   Tech Tuesdays
   Wed, Nov 18  6:00 PM   Agentic Nights
   Thu, Nov 19  6:30 PM   The 12 Talks of Cyber Christmas
   Thu, Nov 19  7:00 PM   Portfolio Page Importance, Walkthrough & 10-Minute Creation
