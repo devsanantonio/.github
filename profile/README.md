@@ -49,8 +49,7 @@ Who they are, and how to walk in: [devsa.community/buildingtogether](https://www
 ```
 guest@devsa ~ % ls this-week/
 
-  Thu, Nov 19  6:30 PM   The 12 Talks of Cyber Christmas
-  Thu, Nov 19  7:00 PM   Portfolio Page Importance, Walkthrough & 10-Minute Creation
+  Nothing on the calendar in the next seven days.
 ```
 
 Updated daily from the [community calendar](https://www.devsa.community/events), the next seven days in Central time. [Build on the same feed.](https://github.com/devsanantonio/community-calendar-api)
